@@ -1,4 +1,4 @@
 # project 
 
 this is a sample project
-by rajdeep debnath
+by rajdeep debnath.
